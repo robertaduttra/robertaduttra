@@ -4,7 +4,7 @@ Seja Bem Vindo(a) ao meu perfil 😄👋
 
 Desenvolvedora Full Stack em formação.... 🧰👷‍🛠️🚧
 
-Estudando e me aperfeiçoando nas tecnologias abaixo:
+Sempre estudando e me aperfeiçoando nas tecnologias abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roberta-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
